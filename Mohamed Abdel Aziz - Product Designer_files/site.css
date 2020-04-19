@@ -405,3 +405,11 @@ body.bg-dark-grey .blue {
 .red-heart{
   color: #f50057;
 }
+
+svg {
+
+  fill: #f50057;
+}
+svg:hover {
+  
+}
