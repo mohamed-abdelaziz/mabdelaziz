@@ -413,3 +413,15 @@ svg {
 svg:hover {
 
 }
+
+
+
+::-moz-selection { /* Code for Firefox */
+  color: red;
+  background: yellow;
+}
+
+::selection {
+  color: #FFF;
+  background: #1a4dff;
+}
