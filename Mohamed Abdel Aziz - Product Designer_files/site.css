@@ -407,9 +407,9 @@ body.bg-dark-grey .blue {
 }
 
 svg {
-
+  padding: 2px;
   fill: #f50057;
 }
 svg:hover {
-  
+
 }
