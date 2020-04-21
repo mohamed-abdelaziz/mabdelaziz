@@ -406,6 +406,10 @@ body.bg-dark-grey .blue {
   color: #f50057;
 }
 
+.blue-color{
+  color: #1a4dff;
+}
+
 svg {
   padding: 2px;
   fill: #f50057;
@@ -413,6 +417,8 @@ svg {
 svg:hover {
 
 }
+
+
 
 
 
