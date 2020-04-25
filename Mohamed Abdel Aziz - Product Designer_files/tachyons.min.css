@@ -557,7 +557,7 @@ img {
 }
 
 .br2 {
-    border-radius: .25rem
+    border-radius: .5rem
 }
 
 .br3 {
@@ -768,8 +768,8 @@ img {
 }
 
 .cf:after,.cf:before {
-    content: " ";
-    display: table
+    content: "";
+    display: table;
 }
 
 .cf:after {
@@ -1202,7 +1202,7 @@ img {
 }
 
 .h-100 {
-    height: 100%
+    height: 90%
 }
 
 .min-h-100 {
@@ -2667,7 +2667,7 @@ img {
 }
 
 .ph2 {
-    padding-left: .5rem;
+    padding-left: .0rem;
     padding-right: .5rem
 }
 
