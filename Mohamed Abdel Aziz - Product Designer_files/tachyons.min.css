@@ -557,7 +557,7 @@ img {
 }
 
 .br2 {
-    border-radius: .5rem
+    border-radius: 0rem
 }
 
 .br3 {
@@ -2632,8 +2632,8 @@ img {
 }
 
 .pv3 {
-    /*padding-top: 1rem;*/
-    padding-bottom: 1rem
+    padding-top: .5rem;
+    /*padding-bottom: 1rem*/
 }
 
 .pv4 {
@@ -2667,8 +2667,8 @@ img {
 }
 
 .ph2 {
-    padding-left: .0rem;
-    padding-right: .5rem
+    padding-left: 0rem;
+    padding-right: 0rem
 }
 
 .ph3 {
