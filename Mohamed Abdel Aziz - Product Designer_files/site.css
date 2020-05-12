@@ -445,7 +445,7 @@ svg:hover {
     cursor: pointer;
     display: inline-block;
     transition: all .2s ease;
-    border-radius: 16px;
+    border-radius: 8px;
     z-index: 11;
     position: relative;
     display: inline-block;
@@ -455,7 +455,10 @@ svg:hover {
 }
 
 
-
+.border-bottom{
+  border-bottom: 1px dotted #1a4dff;
+  padding: 0px 0px 6px 0px;
+}
 
 
 
