@@ -431,6 +431,38 @@ svg:hover {
 
 
 
+.btn{
+    /** background: #1a4dff; **/
+    border: 1px solid #1a4dff;
+    cursor: pointer;
+    display: inline-block;
+    transition: all .2s ease;
+    border-radius: 16px;
+    z-index: 11;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 24px;
+}
+
+
+.btn2{
+    /** background: #1a4dff; **/
+    border: 1px dotted #1a4dff;
+    cursor: pointer;
+    display: inline-block;
+    transition: all .2s ease;
+    border-radius: 16px;
+    z-index: 11;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 12px 16px;
+}
+
+
 
 ::-moz-selection { /* Code for Firefox */
   color: red;
