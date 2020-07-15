@@ -91,11 +91,11 @@ h1:hover .egypt {
 }
 
 .dark-grey {
-  color: #1B1C1F;
+  color: #05051A;
 }
 
 .bg-dark-grey {
-  background: #1B1C1F;
+  background: #05051A;
 }
 
 .light-grey {
@@ -166,7 +166,7 @@ body.bg-dark-grey .bg-dark-grey {
 }
 
 body.bg-dark-grey .bg-white {
-  background: #1B1C1F;
+  background: #05051A;
 }
 
 @media screen and (min-width:60em) {
