@@ -713,7 +713,7 @@ img {
 }
 
 .top-2 {
-    top: 2rem
+    top: 1rem
 }
 
 .right-2 {
@@ -2680,7 +2680,7 @@ img {
 .ph4 {
     padding-left: 2rem;
     padding-right: 2rem;
-    padding-top: 1rem;
+    padding-top: 0rem;
 }
 
 .ph5 {
