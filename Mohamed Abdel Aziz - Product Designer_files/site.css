@@ -402,14 +402,14 @@ body.bg-dark-grey .blue {
 
 
 .hello-fixed {
-    /*position: fixed;*/
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1;
 }
 .hello-bar {
-    /*background-color: #ffe310;*/
+    /*background-color: #05051A;*/
     padding: 0px 0px;
     padding-bottom: .5rem;
     /*margin-bottom: 24px;*/
@@ -432,7 +432,7 @@ body.bg-dark-grey .blue {
 }
 
 svg {
-  padding: 6px;
+  padding: 3px;
   /*fill: #f50057;*/
 }
 svg:hover {
@@ -476,4 +476,8 @@ svg:hover {
 ::selection {
   color: #FFF;
   background: #1a4dff;
+}
+
+.Navbar{
+  padding-top: 5rem;
 }
