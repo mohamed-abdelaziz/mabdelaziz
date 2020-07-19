@@ -2553,7 +2553,8 @@ img {
 }
 
 .pb0 {
-    padding-bottom: 0
+    padding-bottom: 0;
+    padding-top: 1rem;
 }
 
 .pb1 {
@@ -2678,12 +2679,13 @@ img {
 
 .ph4 {
     padding-left: 2rem;
-    padding-right: 2rem
+    padding-right: 2rem;
+    padding-top: 1rem;
 }
 
 .ph5 {
     padding-left: 4rem;
-    padding-right: 4rem
+    padding-right: 4rem;
 }
 
 .ph6 {
