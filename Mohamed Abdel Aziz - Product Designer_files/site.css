@@ -402,7 +402,6 @@ body.bg-dark-grey .blue {
 
 
 .hello-fixed {
-    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -476,9 +475,4 @@ svg:hover {
 ::selection {
   color: #FFF;
   background: #1a4dff;
-}
-
-.Navbar{
-  padding-top: 5rem;
-  padding-bottom: 5rem;
 }
