@@ -489,16 +489,17 @@ svg:hover {
   animation: myanimation 10s infinite;
 }
 
-@keyframes myanimation {
+/*@keyframes myanimation {
   0% {background-color: #deff0a;}
   25%{background-color:#deff0a;}
   50%{background-color:#deff0a;}
   75%{background-color:#a1ff0a;}
   100% {background-color: #a1ff0a;}
 }
+*/
 
 
-/*
+
 @keyframes myanimation {
   0% {background-color: #FFFF00;}
   25%{background-color:#FFFF00;}
@@ -506,6 +507,6 @@ svg:hover {
   75%{background-color:#B2FF59;}
   100% {background-color: #FFFF00;}
 }
-*/
+
 
 /*---------------------------*/
