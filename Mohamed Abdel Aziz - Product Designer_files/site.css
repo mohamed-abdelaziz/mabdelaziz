@@ -491,10 +491,10 @@ svg:hover {
 
 @keyframes myanimation {
   0% {background-color: #deff0a;}
-  25%{background-color:#a1ff0a;}
-  50%{background-color:#0aff99;}
-  75%{background-color:#deff0a;}
-  100% {background-color: #deff0a;}
+  25%{background-color:#deff0a;}
+  50%{background-color:#deff0a;}
+  75%{background-color:#a1ff0a;}
+  100% {background-color: #a1ff0a;}
 }
 
 
